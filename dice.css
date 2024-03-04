@@ -1,0 +1,42 @@
+body {
+    background-image: url('https://st4.depositphotos.com/2718383/24427/i/450/depositphotos_244277336-stock-photo-dice-background-rendering.jpg');
+}
+
+div {
+    background-color: black;
+    margin-top: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 50%;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+    text-transform: uppercase;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+
+h3 {
+    text-align: center;
+    color:gold;
+}
+
+h4 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-bottom: 50px;
+}
+
+img {
+    display: block; /* in order to center an image add these three lines in CSS */
+    margin-left: auto;
+    margin-right: auto;
+}
